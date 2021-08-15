@@ -1,0 +1,85 @@
+body{
+    background-image: url("https://media.istockphoto.com/photos/green-background-3d-render-picture-id1226478926?b=1&k=6&m=1226478926&s=170667a&w=0&h=uOsXYBPPBl33knyv37L2CrGUFcgMHXpSD3faIcFB218=");
+    height: 500px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+
+}
+.container{
+    width: 400px;
+    height:360px;
+    background-color:white;
+    text-align: center;
+    margin:auto;
+    margin-top: 100px;
+    padding: 20px;
+    border-radius: 6px;
+}
+hr{
+    border-top: 3px solid rgb(0, 0, 0);
+}
+h1{
+    font-style: oblique;
+    font-size: 40px;
+}
+.btn{
+    width:180px;
+    height:30px;
+    border-radius: 5px;
+    color:white;
+    background-color:rgb(26, 110, 110);
+   
+}
+.changed select{
+    width: 180px;
+    height:30px;
+    color: #007575;
+    border-width: 3px;
+}
+.converter select{
+    width: 180px;
+    height:30px;
+    color: #007575;
+    border-width: 3px;
+
+}
+.rate{
+    font-size: 20px;
+    color: darkslategray;
+    
+}
+.inputarea{
+    text-align:center;
+    width: 400px;
+    height:30px;
+    color:#007575;
+    border-width: 3px;
+}
+label{
+    font-size: 20px;
+    font-style:oblique;
+    color:rgb(1, 77, 70);
+
+}
+#amount{
+    width: 170px;
+    color:#007575;
+    border-width: 3px;
+
+}
+.inputarea2{
+    text-align:center;
+    width: 400px;
+    height:30px;
+    color:#007575;
+    border-width: 3px;
+}
+#amount2{
+    width: 170px;
+    color:#007575;
+    border-width: 3px;
+
+}
